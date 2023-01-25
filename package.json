@@ -1,5 +1,6 @@
 {
   "name": "tic-tac-toe",
+  "homepage": "http://prjl-23.github.io/react-alu-cross",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
